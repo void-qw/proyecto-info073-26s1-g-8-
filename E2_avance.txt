@@ -1,0 +1,17 @@
+Cambios realizados respecto al E1:
+
+- Se aumentó el tablero de juego a 20x20.
+- Se agregaron 30 obstáculos aleatorios.
+- Se reemplazó la condición de victoria instantánea por un sistema de puntaje.
+- El jugador debe obtener 50 cajas para ganar.
+- Se implementó un sistema de combustible que disminuye con el tiempo.
+- Se agregó un objeto de combustible que recupera 25%.
+- Se agregó un boost que aumenta la velocidad temporalmente.
+- Se agregó un objeto que ralentiza al jugador durante 5 segundos.
+- Se implementó una pantalla de pausa utilizando la tecla ESC.
+
+
+Justificación:
+
+Estos cambios buscan aumentar la dificultad y hacer el juego más dinámico, 
+incorporando distintos tipos de objetos y una condición de victoria más desafiante.
