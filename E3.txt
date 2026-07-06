@@ -1,0 +1,27 @@
+Cambios realizados respecto al E2:
+
+-Se implementaron villanos con inteligencia básica que persiguen al jugador.
+
+-Se aumentó la cantidad y velocidad de los villanos en los niveles superiores.
+
+-Se agregó un jefe final con habilidades especiales, incluyendo ataques a distancia y movimientos rápidos.
+
+-Se implementó un sistema de escudo que protege al jugador de un impacto antes de desaparecer.
+
+-Se incorporó una cola de contenedores que crece según el puntaje obtenido, similar a la mecánica de Snake.
+
+-Se agregaron sprites personalizados para todos los elementos del juego, incluyendo jugador, obstáculos, objetos, -villanos y fondos.
+
+-Se implementaron fondos distintos para cada nivel.
+
+-Se añadieron efectos visuales como brillo ("glow"), animaciones del puntaje y destellos al recoger objetos o recibir daño.
+
+-Se incorporó rotación automática del camión y de la cola según la dirección de movimiento.
+
+-Se agregaron múltiples variantes visuales para los obstáculos.
+
+-Se implementaron efectos de sonido para las principales acciones del juego (recoger objetos, combustible, boost, --escudo, choques y villanos).
+
+-Se agregó música de fondo con reproducción automática y cambio de canción al finalizar cada pista.
+
+-Se mejoró la interfaz del juego mediante una barra gráfica de combustible y un panel lateral más organizado.
